@@ -14,6 +14,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Hola Ivan Cetina Ucán");
+		    System.out.println("Hola Amaury Morales");
         System.out.println("Hola Jorge Reyes Treviño");
     }
     
