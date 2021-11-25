@@ -23,6 +23,7 @@ public class Main {
         System.out.println("Hola Miguel Rodrigo Avila Cabrera");
 		    System.out.println("Hola Amaury Morales");
         System.out.println("Hola Jorge Reyes Treviño")
+	System.out.println("Hola Eduardo Echeverria")
     }
     
 }
